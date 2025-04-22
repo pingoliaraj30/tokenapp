@@ -53,7 +53,7 @@ function Login() {
                 <button type="submit" className="btn btn-primary">Login</button>
             </form>
             <div className="mt-3">
-                <Link to="/signup">Don't have an account? Signup here</Link>
+                <Link to="/">Don't have an account? Signup here</Link>
             </div>
         </div>
     );
